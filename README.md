@@ -15,7 +15,8 @@
 
 <h3 align="center">Connect with Me 📱</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafiul14561/" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/rafiul14561/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+   generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafiul" height="30" width="40" /></a>
   <a href="https://instagram.com/rafiulsonet" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram.svg" alt="Instagram" width="40" height="40"/></a>
   <a href="https://www.facebook.com/profile.php?id=100007069533986" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.svg" alt="Facebook" width="40" height="40"/></a>
 </p>
