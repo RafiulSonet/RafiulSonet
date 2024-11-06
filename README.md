@@ -56,9 +56,11 @@
 ---
 
 <h3 align="center">Projects & Highlights 🚀</h3>
-- **[Project 1](https://github.com/rafiul14561/project1)**: A machine learning project that analyzes data and predicts outcomes with X% accuracy.
-- **[Project 2](https://github.com/rafiul14561/project2)**: A deep learning application for image classification, achieving state-of-the-art results.
-- **[Project 3](https://github.com/rafiul14561/project3)**: A Power BI dashboard providing actionable insights for business data.
+ <p> 
+   [Project 1]([https://github.com/rafiul14561/project](https://github.com/RafiulSonet/University_student-data-analysis-by-Machine-Learning)1): University_student-data-analysis-by-Machine-Learning.
+   [Project 2](https://github.com/rafiul14561/project2)**: A deep learning application for image classification, achieving state-of-the-art results.
+   [Project 3](https://github.com/rafiul14561/project3)**: A Power BI dashboard providing actionable insights for business data.
+ </p>
   
 --- 
 
